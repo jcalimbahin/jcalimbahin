@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey, what's up? My name is Jeffrey Calimbahin.
+
+I was born on June 11, 1999.
+
+I am currently working on my senior design project as somewhat of the lead programmer on the team (Considering I am the only CompE major among 4 EE majors)
+
+My knowledge of coding is honestly very basic since I am actually more concerned with the core mathematic aspects of it.
+This got to a point where I even considered switching my major to mathematics entirely, but a part of me is glad I didn't
+
+I also really enjoy playing video games which is what led me to want to pursue a career working with some kind of video game related technology.
+I am currently very fascinated with virtual reality despite being too broke to own a VR set up.
 
 <!--
 **jcalimbahin/jcalimbahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
