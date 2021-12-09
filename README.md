@@ -1,4 +1,4 @@
-### Hey, what's up? My name is Jeffrey Calimbahin.
+My name is Jeffrey Calimbahin.
 
 I was born on June 11, 1999.
 
